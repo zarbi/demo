@@ -1,7 +1,5 @@
 package testMaven;
 
-import metier.Commande;
-import packpersonne.personne;
 
 public class Testjava {
 
@@ -12,9 +10,7 @@ public class Testjava {
 	
 		
 
-	Commande c = new Commande("toto","tutu") ;
 	
-	System.out.println(c);
 
 	}
 }
